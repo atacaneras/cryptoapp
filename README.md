@@ -1,4 +1,4 @@
-# File Encryption/Decryption App
+# File Encryption/Decryption
 
 This application allows you to encrypt and decrypt files using a simple XOR cipher algorithm. It provides an easy way to protect your sensitive files by converting them into an encrypted format and then decrypting them back to their original state when needed.
 
